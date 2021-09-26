@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ebc1af30.chunk.js",
+    "main.js.map": "/static/js/main.ebc1af30.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5b460e13.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5b460e13.js.map",
+    "static/js/2.39efccb9.chunk.js": "/static/js/2.39efccb9.chunk.js",
+    "static/js/2.39efccb9.chunk.js.map": "/static/js/2.39efccb9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.43a0c430d217c2879de4db6992fa137a.js": "/precache-manifest.43a0c430d217c2879de4db6992fa137a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.39efccb9.chunk.js.LICENSE.txt": "/static/js/2.39efccb9.chunk.js.LICENSE.txt",
+    "static/media/Ass2.png": "/static/media/Ass2.05398edd.png",
+    "static/media/Ass3.png": "/static/media/Ass3.8f333987.png",
+    "static/media/ass1.png": "/static/media/ass1.05398edd.png",
+    "static/media/img00.png": "/static/media/img00.ccad0100.png",
+    "static/media/img2.png": "/static/media/img2.64917a21.png",
+    "static/media/img5.png": "/static/media/img5.54ccb059.png",
+    "static/media/mobile0.png": "/static/media/mobile0.8bd10ae9.png",
+    "static/media/mobile0_land.png": "/static/media/mobile0_land.8bd10ae9.png",
+    "static/media/mobile0_min.png": "/static/media/mobile0_min.64917a21.png",
+    "static/media/mobile4.png": "/static/media/mobile4.1b93902b.png",
+    "static/media/mobile4_land.png": "/static/media/mobile4_land.1b93902b.png",
+    "static/media/mobile4_min.png": "/static/media/mobile4_min.d786849f.png",
+    "static/media/mobile5.png": "/static/media/mobile5.3cc55456.png",
+    "static/media/mobile5_land.png": "/static/media/mobile5_land.3cc55456.png",
+    "static/media/mobile5_min.png": "/static/media/mobile5_min.54ccb059.png",
+    "static/media/mobile6.png": "/static/media/mobile6.69aa8bf4.png",
+    "static/media/model3.png": "/static/media/model3.ea334936.png",
+    "static/media/model3D.png": "/static/media/model3D.3540e253.png",
+    "static/media/model3L.png": "/static/media/model3L.ea334936.png",
+    "static/media/models1.png": "/static/media/models1.cd8f60f1.png",
+    "static/media/models2.png": "/static/media/models2.cd8f60f1.png",
+    "static/media/models3.png": "/static/media/models3.cf767d73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b460e13.js",
+    "static/js/2.39efccb9.chunk.js",
+    "static/js/main.ebc1af30.chunk.js"
+  ]
+}

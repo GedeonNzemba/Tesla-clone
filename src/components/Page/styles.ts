@@ -4,7 +4,6 @@ import img2 from './images/img2.png'
 import img3 from './images/model3D.png'
 import img4 from './images/mobile4_min.png'
 import img5 from './images/img5.png'
-import img6 from './images/img6.png'
 import img7 from './images/img00.png'
 import mobile1 from './images/models1.png'
 import mobile1_land from './images/models2.png'
@@ -159,6 +158,9 @@ export const Container = styled.div`
     background-size: 40%;
     background-repeat: no-repeat;
      background-position: center;
+     @media (min-width: 600px) {
+       background-size: 20%;
+     }
   }
 `
 
