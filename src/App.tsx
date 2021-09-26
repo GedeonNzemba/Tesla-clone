@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.min.css'
 
 import Page from './components/Page'
 
